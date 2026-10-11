@@ -30,11 +30,7 @@
 
 ### About
 
-Final-year engineering student at the **National Institute of Posts and Telecommunications (INPT)**, Ubiquitous and Distributed Systems, Cloud and IoT (2024–2027). Looking for a **final-year internship (PFE)** in Cloud and DevOps.
-
-- **Clever Cloud Morocco × AGEL Partners** — FinOps agent on Clever Kubernetes Engine: Docker, a weekly CronJob, and Terraform. First test: about **10% cost savings**. Two internal workshops on Terraform and Kubernetes.
-- **Huawei ICT Competition, Cloud Track** — **3rd worldwide**, 1st in Morocco, 2nd in Northern Africa.
-- **AWS Certified Cloud Practitioner (CLF-C02)**. **AZ-104: Azure Administrator Associate** in progress.
+Engineering student at the **National Institute of Posts and Telecommunications (INPT)** in Rabat, in Ubiquitous and Distributed Systems, Cloud and IoT. I work on cloud platforms, CI/CD, and infrastructure automation.
 
 ### Technologies
 
@@ -92,24 +88,6 @@ Final-year engineering student at the **National Institute of Posts and Telecomm
   <a href="https://www.sonarsource.com/products/sonarqube/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="40" height="40" alt="SonarQube" /></a>
 </p>
 
-### Projects
-
-**CI/CD pipeline for AKS applications**  
-Azure Pipelines, AKS, ACR, Key Vault, Helm, Prometheus, Grafana. Automated build, tests, and security scanning, staging deployment, and approval-gated promotion to production.
-
-**[cc-advisor](https://github.com/aboubakertounli/cc-advisor-combo)** — Terraform + Kubernetes (CKE)  
-FinOps agent for Clever Cloud: inventory, cost calculation, and recommendations, packaged with Docker and deployed as a CronJob.
-
-**[DevSecOps x GitOps](https://github.com/aboubakertounli/DevSecOps-x-GitOps)**  
-CI/CD with quality and image scanning, then continuous delivery through GitOps.
-
-**AIOps self-healing platform**  
-OpenStack, Ansible, Kubernetes (kubeadm), FluxCD, Spring AI, Prometheus. A Spring AI agent that watches the platform and restarts unhealthy containers.
-
-**Microservices and CI/CD on AWS**  
-ECS, ECR, ALB, CodePipeline. Blue/Green deployments with CodeCommit, CodeDeploy, and CodePipeline.  
-Repo: [My-Heart-Application-Microservices](https://github.com/aboubakertounli/My-Heart-Application-Microservices)
-
 ### GitHub stats
 
 <p align="center">
@@ -122,8 +100,6 @@ Repo: [My-Heart-Application-Microservices](https://github.com/aboubakertounli/My
 </p>
 
 ### Contact
-
-Open to a final-year Cloud / DevOps internship and to collaboration on CI/CD, Kubernetes, and cloud infrastructure.
 
 <p align="center">
   <a href="mailto:aboubakertounli@gmail.com">
