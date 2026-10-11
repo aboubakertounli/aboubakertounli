@@ -21,7 +21,7 @@
   <a href="https://github.com/aboubakertounli">
     <img src="https://img.shields.io/badge/GitHub-aboubakertounli-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Rabat,%20Morocco-00008B?style=flat-square" alt="Morocco" />
+  <img src="https://img.shields.io/badge/Location,%20Morocco-00008B?style=flat-square" alt="Morocco" />
 </p>
 
 <p align="center">
