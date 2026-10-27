@@ -30,7 +30,7 @@
 
 ### About
 
-Engineering student at the **National Institute of Posts and Telecommunications (INPT)** , in Distributed Systems, Cloud. I work on cloud platforms, CI/CD, and infrastructure automation.
+Engineering student at the **National Institute of Posts and Telecommunications (INPT)** , in Distributed Systems. I work on cloud platforms, CI/CD, and infrastructure automation.
 
 ### Technologies
 
