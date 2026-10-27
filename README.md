@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  Cloud & DevOps engineering student at INPT, building CI/CD pipelines, Kubernetes platforms, and cloud infrastructure.
+  Cloud & DevOps Engineer, building CI/CD pipelines, cloud infrastructure, scalable systems and architectures.
 </p>
 
 <p align="center">
